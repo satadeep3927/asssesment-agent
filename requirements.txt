@@ -1,0 +1,15 @@
+streamlit
+validators
+requests
+beautifulsoup4
+groq
+langchain
+langgraph
+pydantic
+python-dotenv
+openai
+black
+isort
+ruff
+jinja2
+
